@@ -1,0 +1,7 @@
+.git
+.workbuddy
+data
+node_modules
+*.log
+Dockerfile
+.dockerignore
