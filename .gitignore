@@ -1,0 +1,14 @@
+# 真实业务数据（含账号哈希 + 客户 / 联系人 / 合同等敏感信息），不进版本控制
+# 首次运行 server.js 会自动生成空 data/ 目录与文件
+data/
+
+# WorkBuddy 项目数据
+.workbuddy/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
